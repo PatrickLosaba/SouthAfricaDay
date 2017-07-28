@@ -252,7 +252,7 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.2",
+            "overlayOpacity": "0.4",
             "overlayColor": "#222",
             "showHeader": false,
             "showSubheader": false,
