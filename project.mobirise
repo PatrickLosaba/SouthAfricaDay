@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 43,
+    "uniqCompNum": 44,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/thabiso-final-logo-9-128x128.png",
     "noImageResize": "",
@@ -1057,6 +1057,21 @@
             "Theme"
           ],
           "_name": "content4",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#e39939"
+            },
+            ".mbr-section-title .mbr-header__text": {
+              "color": "#252525",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "content4-o",
           "_params": {
             "paddingTop": 3,
@@ -1203,22 +1218,7 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_styles": {
-            ".mbr-section__col .mbr-header__text": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "color": "#e39939"
-            },
-            ".mbr-section-title .mbr-header__text": {
-              "color": "#252525",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            "P": {
-              "text-align": "center"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
         },
         {
           "_inherit": "features1",
@@ -1226,6 +1226,17 @@
             "Theme"
           ],
           "_name": "content4",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#252525"
+            },
+            "P": {
+              "text-align": "center",
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "content4-q",
           "_params": {
             "paddingTop": 3,
@@ -1372,30 +1383,13 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_styles": {
-            ".mbr-section__col .mbr-header__text": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "color": "#252525"
-            },
-            "P": {
-              "text-align": "center",
-              "color": "#ffffff"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-u",
-          "title": "CAMPAIGN LAUNCH – MEDIA &amp; ONLINE",
-          "_params": {
-            "showMeta": false
-          },
-          "meta": "By John Smith posted July 30, 2015",
           "_styles": {
             "H3": {
               "text-align": "center",
@@ -1403,7 +1397,13 @@
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
-          }
+          },
+          "_anchor": "header3-u",
+          "title": "CAMPAIGN LAUNCH – MEDIA &amp; ONLINE",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015"
         },
         {
           "_inherit": "msg-box3",
@@ -1601,18 +1601,18 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-z",
-          "title": "LOOK AND FEEL – DECOR",
-          "_params": {
-            "showMeta": false
-          },
-          "meta": "By John Smith posted July 30, 2015",
           "_styles": {
             "H3": {
               "text-align": "center",
               "color": "#e39939"
             }
-          }
+          },
+          "_anchor": "header3-z",
+          "title": "LOOK AND FEEL – DECOR",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015"
         },
         {
           "_tags": [
@@ -1686,17 +1686,17 @@
             "Theme"
           ],
           "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "header3-10",
           "title": "LOOK AND FEEL – ART GALLERY",
           "_params": {
             "showMeta": false
           },
-          "meta": "By John Smith posted July 30, 2015",
-          "_styles": {
-            "H3": {
-              "text-align": "center"
-            }
-          }
+          "meta": "By John Smith posted July 30, 2015"
         },
         {
           "_tags": [
@@ -1770,6 +1770,11 @@
             "Theme"
           ],
           "_name": "pricing-table1",
+          "_styles": {
+            ".mbr-plan__details UL": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "pricing-table1-12",
           "_params": {
             "paddingTop": 3,
@@ -1822,37 +1827,32 @@
           "price5": "0",
           "period5": "per month",
           "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
-          "_styles": {
-            ".mbr-plan__details UL": {
-              "text-align": "left"
-            }
-          }
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-15",
-          "title": "TIMING PLAN",
-          "_params": {
-            "showMeta": false
-          },
-          "meta": "By John Smith posted July 30, 2015",
           "_styles": {
             "H3": {
               "text-align": "center",
               "color": "#e39939"
             }
-          }
+          },
+          "_anchor": "header3-15",
+          "title": "TIMING PLAN",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-16",
+          "_anchor": "image1-17",
           "_params": {
             "outside": false,
             "bgColor": "#252525",
@@ -1861,7 +1861,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/south-africa-day-tl-1400x1138.png",
+              "src": "@PROJECT_PATH@/assets/images/south-africa-day-tl1-1400x787.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -1881,6 +1881,11 @@
             "Theme"
           ],
           "_name": "image1",
+          "_styles": {
+            "SMALL": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "image1-14",
           "_params": {
             "outside": false,
@@ -1903,12 +1908,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "(c)2017 managesXThabiso",
-          "_styles": {
-            "SMALL": {
-              "text-align": "center"
-            }
-          }
+          "text": "(c)2017 managesXThabiso"
         }
       ]
     }
