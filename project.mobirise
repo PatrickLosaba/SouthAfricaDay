@@ -1,0 +1,1960 @@
+{
+  "settings": {
+    "name": "MandelaDay managedXthabiso",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 41,
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/thabiso-final-logo-9-128x128.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/south-africa-day-title-2000x1124.png",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "&nbsp;&nbsp;",
+          "text": "&nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"index.html#content5-1\" data-toolbar=\"-mbrBtnMove\">ABOUT</a> "
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#414040",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/south-africa-day-blank-2000x1124.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "RATIONALE BEHIND THE EVENT",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<ul><li>South Africa Day is national-building day where South Africans are inspired by the spirit of our &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;common citizenship, values and constitution to forge a unity that is unique to our land and people.\n</li><li>Use of the existing foundations to build a prosperous and inclusive future for all South Africans; is what the South Africa Day project seeks to foster and expand on.<br></li><li>A day of celebration and community togetherness supported by South African business &amp; driven by ordinary citizens.\n</li><li>On the day: projects, celebrations and events aimed at community-building are carried out throughout the nation.\n</li><li>We come from a difficult history that alienated entire peoples from a sense of belonging to our country, divided the communities on basis of race and tribal belonging.\n</li><li>All South Africans are required to make special effort on a consistent and committed basis, towards lasting and positive nation-building.\n</li><li>South Africa Day seeks to be a holistic initiative to overcome those legacies of the past, on an enduring and lasting basis.\n</li></ul><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "color": "#e39939",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "P": {
+              "text-align": "center"
+            },
+            "B": {
+              "color": "#414040"
+            }
+          },
+          "_anchor": "header3-3",
+          "title": "THE LEGACY WE WANT TO CELEBRATE",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "<b>Our country is full of possibility:&nbsp;</b><br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4",
+          "text": "<ul><li>A vibrant and creative youth.\n</li><li>People who greet one another.\n</li><li>People who mourn the passing of others.\n</li><li>People who tell incredible jokes.\n</li><li>People who help one another.\n</li></ul><p><br></p>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#414040",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-5",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/south-africa-day-blank-2000x1124.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "SIGNIFANCE OF SOUTH AFRICA DAY",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<ul><li>The day is intended to inspire everyone to participate in building the country and bringing about a renewed sense of optimism and excitement in belonging to South Africa and the future of the country.\r</li><li>South Africa Day is a day of purpose, of personal responsibility towards achieving the unification of the people of South Africa and of what can be achieved when everyone works together towards a common goal.\r</li><li>The aim is to physically bring together South Africans who would otherwise have never met without special efforts and/or programmes.\r</li><li>South Africa Day is intended to bring a sense of urgency to addressing the challenges facing South Africa within the global economy, and those facing the nation in it’s politics, and in the fracturing of social cohesion</li></ul>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#e39939"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header3-6",
+          "title": "DROP-DEAD EASY WEBSITE MAKER",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "&nbsp;&nbsp;"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-7",
+          "text": "<ul><li>South Africa Day is meant to be a journey where all South Africans are invited to contribute towards building and improving their communities through partnerships with organisations that operate within their communities.\n</li><li>The day is a high profile campaign that will elevate the role of business in society and improve it’s relationship in people’s hearts and minds.\n</li><li>It will also improve relations with government and civil society and hence, will have a very real commercial value in enhancing business confidence and the image of business in South Africa.\n</li></ul><p><br></p>"
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#e39939"
+            }
+          },
+          "_anchor": "content4-8",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/south-africa-day-blank-2000x423.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": "2",
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "VISION",
+          "caption1": "To contribute in building a South African society that will instil pride to the people of South Africa, and that they would have the reason to celebrate and be inspired by as a nation.&nbsp;<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "MISSION",
+          "caption2": "To inspire South African to attain greatness that is underpinned by optimism about the country and its future, national unity, national pride, enhancing the image of South Africa, and the building of the South African identity that the people of South African can embrace with great honour, pride and dignity.&nbsp;<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "WEB FONTS",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "center",
+              "color": "#e39939"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header3-9",
+          "title": "SO, WHAT ARE WE TRYING TO ACHIEVE?",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "&nbsp;"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-a",
+          "text": "<ul><li>There is an indomitable spirit that exists in the South African communities and this spirit needs to be harnessed towards the important task of positive nation-building.\n</li><li>We need to move from thinking of ourselves as separate islands, disconnected and afloat.\n</li><li>South Africa Day fosters a sense of belonging to a bigger whole, something that is much larger than the sum of it’s parts.\n</li><li>South Africa Day is intended to galvanise that hope into tangible action towards nation-building and a prosperous future.\n</li><li>The day is intended to be as inclusive as possible, encouraging all South African’s to participate.\n</li><li>It will promote the idea of good citizenship and encourage all individuals whether foreign or South African to participate in activities, programmes and events that help to build and improve the communities in which they live.\n</li><li>This extends to all organisations: schools, businesses, churches and embassies (all will have to operate within their respective communities)\n</li></ul><p><br></p>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#414040",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#e39939"
+            },
+            ".mbr-article H4": {
+              "color": "#e39939"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-b",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/south-africa-day-blank-2000x1124.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "MAIN OBJECTIVE OF SOUTH AFRICA DAY",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<h4>AIMED AT INSPIRING THE PEOPLE OF SOUTH AFRICA TOWARDS THE FOLLOWING:\n</h4><ul><li>Celebrating South Africa, it’s people, it’s achievements and it’s possibilities<br></li><li>Supporting initiative that will instil pride and a reason to believe in South Africa\n</li><li>Promoting national pride and national unity\n</li><li>Encouraging the people of South Africa and the country to work towards achieving greatness and exceed the bounds of the possible\n</li><li>Becoming positive ambassadors for the country and our communities\n</li><li>Creating, developing and supporting various platforms that improve our image as South Africa\n</li><li>Building a South African identity that South African’s can be proud of, and that would define who they are as a people or nation that they can aspire to become</li></ul><h4>AIMED AT INSPIRING THE PEOPLE OF SOUTH AFRICA TOWARDS THE FOLLOWING:\n</h4><ul><li>Active citizenship in community upliftment in partnership with business and community organisations\n</li><li>Promoting and building relationships that embrace inclusiveness and diversity\n</li><li>Encouraging participation of community members to contribute to the improvement of their own communities through events, activities and programmes.\n</li><li>Empowerment through voluntary participation in community improvement.\n</li><li>Encouraging constructive dialogue about critical issues affecting our nation\n</li></ul><p><br></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#e39939"
+            }
+          },
+          "_anchor": "content4-c",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": "2",
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "CHALLENGE",
+          "caption1": "<br>The concept resonates and is highly relevant given the current context in our country.\n<br>People are looking to business to help with a number of social &amp; economical issues that they face on a daily business.\n<br>Confidence in business needs to be restored and business does need to come across as less of exploiting the people they serve to being an integral part of the communities and solutions that are needed to bring to life the vision set out for this day.&nbsp;<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "ROLE OF INFLUENCER CAMPAIGN\n<div><br></div>",
+          "caption2": "The concept resonates and is highly relevant given the current context in our country.\n<br>People are looking to business to help with a number of social &amp; economical issues that they face on a daily business.\n<br>Confidence in business needs to be restored and business does need to come across as less of exploiting the people they serve to being an integral part of the communities and solutions that are needed to bring to life the vision set out for this day.&nbsp;<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "WEB FONTS",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "color": "#e39939",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
+          "_anchor": "header3-d",
+          "title": "INFLUENCER CAMPAIGN EXECUTIONAL PLAN",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "&nbsp;"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#414040",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article H4": {
+              "color": "#e39939"
+            },
+            ".mbr-article P": {
+              "color": "#414040"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-e",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/south-africa-day-blank-2000x1124.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "EXECUTIVE SUMMARY",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<h4>Timing:\n</h4><ul><li>10 week promo  18 September  2017 – 24 November 2017\n</li></ul><h4>Channel: \n</h4><ul><li>Digital (Facebook, Instagram &amp; Twitter)\n</li><li>Experiential Events (market activations, mentorship dinners) \n</li><li>Print Media Partnership\n</li></ul><h4>The BIG IDEA: \n</h4><ul><li>We live in a world of hashtags and they have become a way of expression. \n</li><li>Launch #ilovemySouthAfrica campaign through the use of influencers (Comedians, artists, entrepreneurs). \n</li><li>Start the conversation using reasons why the influencers love this country then invite the public to tell us why they love South Africa. The 2nd part of the campaign will start a conversation around the contribution of SA business to the communities.\n</li><li><b>South Africans will stand a chance to win a FAMILY TRIP FOR 6 to THE 10 WONDERS OF SOUTH AFRICA and other instant prizes.\n</b></li></ul><h4>Activity by Channel:\n</h4><p></p><p><b>Digital Campaign\n</b></p><p></p><ul><li>Launch the #ilovemysouthafrica campaign on our digital platforms and tell stories about the beauty of South African and it’s people.\n</li><li>They are given an opportunity to enter for the competition.\n</li></ul><p><b>Experiential Events\n</b></p><ul><li>We will host Mini-market days in the Top 10 townships in South Africa. We will show case the business &amp; talent from that area but also share galleries which will include business ideas &amp; talents from other townships in SA. We will also showcase The 10 wonders of South Africa. \n</li></ul><p><b>Print Partnership\n</b></p><ul><li>Ndalo Media to reach the young aspiring South African with editorials and profiling of the selected ambassadors (Destiny Man &amp; Destiny Women)\n</li><li>You, Huisegenoot and Drum Magazine to reach a large and broader South African audience.\n</li></ul><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#e39939"
+            }
+          },
+          "_anchor": "header3-f",
+          "title": "DROP-DEAD EASY WEBSITE MAKER",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "&nbsp;"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-g",
+          "text": "<p>We live in a world of hashtags and they have become a way of expression for the youth. Culture is now being shaped by the hashtags ie #blessed gave rise to the Blesser phenomenon.\r</p><p>&nbsp;\r</p><p>Launch <b>#ilovemySouthAfrica</b> campaign through the use of influencers (Comedians, artists, entrepreneurs). \r</p><p>\r</p><p>Start the conversation using reasons why the influencers love this country then invite the public to tell us why they love south African. The 2nd part of the campaign will start a conversation around the contribution of SA business to the communities.\r</p><p>\r</p><p><b>South Africans will stand a chance to win a FAMILY TRIP FOR 6 to THE 10 WONDERS OF SOUTH AFRICA and other instant prizes.\r</b></p><p><br></p>"
+        },
+        {
+          "items": [
+            {
+              "text": "<p class=\"mbr-reviews__p\">INFLUENCERS WILL BE USED AS A BUILD UP TO THE MAIN EVENT – START AND MAINTAIN THE CONVERSATION\n</p><p class=\"mbr-reviews__p\">REWARD PEOPLE FOR PARTICIPATING WITH PRIZES \n</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "ABANOUB S.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">INFLUENCERS TO ENGAGE AND EXCITE THE YOUTH OF SOUTH AFRICA\n</p><p class=\"mbr-reviews__p\">DIGITAL FOR 2-WAY CONVERSATIONS\n</p><p class=\"mbr-reviews__p\">EVENTS TO BRING TO LIFE Á TASTE’OF WHAT THE EVENT WILL CAPTURE\n</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">LINK AND AMPLIFY CONTENT \r</p><p class=\"mbr-reviews__p\">ALREADY GENERATED FOR\r</p><p class=\"mbr-reviews__p\">EVENT. \r</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p class=\"mbr-reviews__p\">INFLUENCERS WILL BE USED AS A BUILD UP TO THE MAIN EVENT – START AND MAINTAIN THE CONVERSATION\n</p><p class=\"mbr-reviews__p\">REWARD PEOPLE FOR PARTICIPATING WITH PRIZES \n</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "ABANOUB S.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">INFLUENCERS TO ENGAGE AND EXCITE THE YOUTH OF SOUTH AFRICA\n</p><p class=\"mbr-reviews__p\">DIGITAL FOR 2-WAY CONVERSATIONS\n</p><p class=\"mbr-reviews__p\">EVENTS TO BRING TO LIFE Á TASTE’OF WHAT THE EVENT WILL CAPTURE\n</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">LINK AND AMPLIFY CONTENT \r</p><p class=\"mbr-reviews__p\">ALREADY GENERATED FOR\r</p><p class=\"mbr-reviews__p\">EVENT. \r</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials1-i",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": 3,
+            "showName": false,
+            "showBio": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/south-africa-day-blank-2000x1124.png",
+            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false
+          },
+          "header": "WHAT OUR FANTASTIC USERS SAY"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#e39939"
+            }
+          },
+          "_anchor": "header3-j",
+          "title": "SOUTH AFRICA DAY vs HERITAGE DAY",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "&nbsp;"
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
+          "_anchor": "content4-k",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": "2",
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Heritage Day",
+          "caption1": "<p>•&nbsp;&nbsp;&nbsp;&nbsp;Celebrate cultural diversity\n<br>•&nbsp;&nbsp;&nbsp;&nbsp;Celebrating the differences between us\n<br>•&nbsp;&nbsp;&nbsp;&nbsp;Showcasing my culture/my heritage&nbsp;<br></p>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "South Africa Day",
+          "caption2": "<p>•&nbsp;&nbsp;&nbsp;&nbsp;Bringing South African’s together\n<br>•&nbsp;&nbsp;&nbsp;&nbsp;Celebrating what we have in common\n<br>•&nbsp;&nbsp;&nbsp;&nbsp;Showcasing our culture &amp; what it means to be South African.&nbsp;<br></p>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "WEB FONTS",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "items": [
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>CELEBRATE SA, IT’S PEOPLE &amp; IT’S ACHIEVEMENT\n</b></p><p class=\"mbr-reviews__p\">Key Achievers over the years in different sphere\n</p><p class=\"mbr-reviews__p\"><b>•&nbsp;&nbsp;&nbsp;&nbsp;60 sec video:</b> Great stories about South Africa\n</p><p class=\"mbr-reviews__p\"><b>•</b>&nbsp;&nbsp;&nbsp;&nbsp;<b>45 sec video:</b> Profiling South Africans that have taken South Africa abroad. Trevor Noah, Black Coffee, Khanyi Dlomo, Elon Musk and etc\n</p><p class=\"mbr-reviews__p\"><b>•</b>&nbsp;&nbsp;&nbsp;&nbsp;<b>30 sec video:</b> Look for ordinary South Africans that have made a positive impact\n</p><p class=\"mbr-reviews__p\">These stories to be shared at the community events\n</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "ABANOUB S.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>SUPPORT INITIATIVES THAT WILL INSTIL PRIDE &amp; REASON TO BELIEVE IN SOUTH AFRICA\n</b></p><p class=\"mbr-reviews__p\">Top 5 initiatives that have united SA &amp; ordinary South Africans that make us believe in our country. \n</p><p class=\"mbr-reviews__p\">•&nbsp;&nbsp;&nbsp;&nbsp;Nkosi Johnson\n</p><p class=\"mbr-reviews__p\">•&nbsp;&nbsp;&nbsp;&nbsp;Nelson Mandela\n</p><p class=\"mbr-reviews__p\">•&nbsp;&nbsp;&nbsp;&nbsp;Ontlametse Phalatse\n</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>BECOMING POSITIVE AMBASSADORS FOR THE COUNTRY &amp; OUR COMMUNITIES\n</b></p><p class=\"mbr-reviews__p\">Focus on the positive stories about South Africa and make those stories trend\n</p><p class=\"mbr-reviews__p\">•&nbsp;&nbsp;&nbsp;&nbsp;Business contribution to communities\n</p><p class=\"mbr-reviews__p\"><b>•&nbsp;&nbsp;&nbsp;&nbsp;Youth Innovation</b> to increase employment\n</p><p class=\"mbr-reviews__p\"><b>•&nbsp;&nbsp;&nbsp;&nbsp;Tourism:</b> how do we start to promote hidden gems in our cities to fellow South African and the world.\n</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>BUILD A SOUTH AFRICAN IDENTITY THAT SOUTH AFRICAN’S CAN BE PROUD OF\r</b></p><p class=\"mbr-reviews__p\">Start a new narrative and movement that will reward South Africans for focusing only on the beauty of the country\r</p><p class=\"mbr-reviews__p\">•&nbsp;&nbsp;&nbsp;&nbsp;We share our stories with the people\r</p><p class=\"mbr-reviews__p\">•&nbsp;&nbsp;&nbsp;&nbsp;Create a platform for South African’s to share their stories with us.\r</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section__header": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#ffffff"
+            },
+            ".mbr-reviews__text P": {
+              "color": "#777777"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>CELEBRATE SA, IT’S PEOPLE &amp; IT’S ACHIEVEMENT\n</b></p><p class=\"mbr-reviews__p\">Key Achievers over the years in different sphere\n</p><p class=\"mbr-reviews__p\"><b>•&nbsp;&nbsp;&nbsp;&nbsp;60 sec video:</b> Great stories about South Africa\n</p><p class=\"mbr-reviews__p\"><b>•</b>&nbsp;&nbsp;&nbsp;&nbsp;<b>45 sec video:</b> Profiling South Africans that have taken South Africa abroad. Trevor Noah, Black Coffee, Khanyi Dlomo, Elon Musk and etc\n</p><p class=\"mbr-reviews__p\"><b>•</b>&nbsp;&nbsp;&nbsp;&nbsp;<b>30 sec video:</b> Look for ordinary South Africans that have made a positive impact\n</p><p class=\"mbr-reviews__p\">These stories to be shared at the community events\n</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "ABANOUB S.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>SUPPORT INITIATIVES THAT WILL INSTIL PRIDE &amp; REASON TO BELIEVE IN SOUTH AFRICA\n</b></p><p class=\"mbr-reviews__p\">Top 5 initiatives that have united SA &amp; ordinary South Africans that make us believe in our country. \n</p><p class=\"mbr-reviews__p\">•&nbsp;&nbsp;&nbsp;&nbsp;Nkosi Johnson\n</p><p class=\"mbr-reviews__p\">•&nbsp;&nbsp;&nbsp;&nbsp;Nelson Mandela\n</p><p class=\"mbr-reviews__p\">•&nbsp;&nbsp;&nbsp;&nbsp;Ontlametse Phalatse\n</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>BECOMING POSITIVE AMBASSADORS FOR THE COUNTRY &amp; OUR COMMUNITIES\n</b></p><p class=\"mbr-reviews__p\">Focus on the positive stories about South Africa and make those stories trend\n</p><p class=\"mbr-reviews__p\">•&nbsp;&nbsp;&nbsp;&nbsp;Business contribution to communities\n</p><p class=\"mbr-reviews__p\"><b>•&nbsp;&nbsp;&nbsp;&nbsp;Youth Innovation</b> to increase employment\n</p><p class=\"mbr-reviews__p\"><b>•&nbsp;&nbsp;&nbsp;&nbsp;Tourism:</b> how do we start to promote hidden gems in our cities to fellow South African and the world.\n</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\"><b>BUILD A SOUTH AFRICAN IDENTITY THAT SOUTH AFRICAN’S CAN BE PROUD OF\r</b></p><p class=\"mbr-reviews__p\">Start a new narrative and movement that will reward South Africans for focusing only on the beauty of the country\r</p><p class=\"mbr-reviews__p\">•&nbsp;&nbsp;&nbsp;&nbsp;We share our stories with the people\r</p><p class=\"mbr-reviews__p\">•&nbsp;&nbsp;&nbsp;&nbsp;Create a platform for South African’s to share their stories with us.\r</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            }
+          ],
+          "_anchor": "testimonials1-l",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": "4",
+            "showName": false,
+            "showBio": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/south-africa-day-blank-2000x1124.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#28324e",
+            "showTitle": true
+          },
+          "header": "WHAT OUR FANTASTIC USERS SAY"
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-o",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": true,
+            "showSubheader": false,
+            "columns": "5",
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "headerAlign": "left",
+          "header": "TOP 10 TOWNSHIPS IN SOUTH AFRICA",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "SOWETO",
+          "caption1": "Gauteng Province<br>South West",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#content4-o\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">1.3M</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "TEMBISA",
+          "caption2": "Gauteng Province<br>East Rand<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#content4-q\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">463K</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "KATLEHONG",
+          "caption3": "Gauteng Province<br>East Rand<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#content4-o\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">407K</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "UMLAZI",
+          "caption4": "Kwazulu Natul<br>Durban<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#content4-o\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">404K</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "SOSHANGUVE",
+          "caption5": "Gauteng Province<br>City Of Tswane<br>",
+          "button5": "<a data-app-btn=\"true\" href=\"index.html#content4-o\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">403K</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#e39939"
+            },
+            ".mbr-section-title .mbr-header__text": {
+              "color": "#252525",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-q",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/south-africa-day-blank-2000x423.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#28324e",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": 5,
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "KHAYELITSHA",
+          "caption1": "Western Cape<br>City of Cape Town<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#testimonials1-i\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">392K</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "MAMELODI",
+          "caption2": "Gauteng Province<br>City Of Tswane<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#content4-q\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">334K</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "MITCHELL’S PLAIN&nbsp;",
+          "caption3": "Western Cape<br>City of Cape Town<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#content4-q\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">310K</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "IBHAYI",
+          "caption4": "Eastern Cape <br>Port Elizabeth<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#content4-q\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">238K</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "SEBOKENG",
+          "caption5": "Gauteng Province<br>Vereeniging<br>",
+          "button5": "<a data-app-btn=\"true\" href=\"index.html#content4-q\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">218K</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#252525"
+            },
+            "P": {
+              "text-align": "center",
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-u",
+          "title": "CAMPAIGN LAUNCH – MEDIA &amp; ONLINE",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "color": "#e39939",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article H4": {
+              "color": "#252525"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-t",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#faaf40",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "WHO?",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b>50 KEY MEDIA PERSONEL – BLOGGERS, WRITERS\n</b></p><p><b>THE AMBASSADORS TO ATTEND (20)\n</b></p><h4><b>ENTERTAINMENT:</b></h4><ul><li>AMANDA BLACK, KWESTA, CASPER NYOVEST (VDJ, KINGS OF THE WEEKEND)\n</li></ul><h4>PR: </h4><ul><li>Skhumba (MC), YFM, SABC Radio Stations,  Gagasi FM, Ndalo Media, Times Media, Top 10 Bloggers, Media 24e, Selimatunzi, VUZU, BET A-List, LIVE, Top Billing\n</li></ul><p>5 South Africans with their partners to attend the experience (selected via social media)\n</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "left",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-v",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#41a85f",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": true,
+            "darkBackground": true
+          },
+          "title": "WHERE?",
+          "meta": "<p>•&nbsp;&nbsp;&nbsp;&nbsp;THE SPACE IN PINESLOPES<br>•&nbsp;&nbsp;&nbsp;&nbsp;VUYO’S PLACE IN SOWETO<br>•&nbsp;&nbsp;&nbsp;&nbsp;Four season Hotel (Mini Market Look &amp; Feel)&nbsp;<br></p>",
+          "text": "<ul><li>THE SPACE IN PINESLOPES</li><li>VUYO’S PLACE IN SOWETO</li><li>Four season Hotel (Mini Market Look &amp; Feel)\n</li></ul><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "left",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-w",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ff0400",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": true,
+            "darkBackground": true
+          },
+          "title": "When",
+          "meta": "Mid September 2017&nbsp;<br>",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-x",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "WHAT?",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<ol><li>Media will be asked to  come to the event dressed in all black.\n</li><li>Upon arrival, they will go through registration and receive branded arm bands &amp; lanyards with cards with their names. The arm band and lanyards will be in the South African flag colours with the SA day logo.\n</li><li>They will then be ushered by our promoters to the different stations. \n</li><li>Station 1: take a picture and make their pledge (#ilovemysouthafrica) Photo booth with props. Pics go online and instant pictures are printed for the guests.\n</li><li>Station 2: They will then be given an opportunity to go through the art gallery where we will show the beautiful pictures that tell our stories.\n</li><li>Station 3: Opening video to played (SA stories, influencer declarations etc). The presentation from 3 key members of SA day, 3 influencers. The MC to promote the competition for the day. \n</li><li>Station 4: the media  will be split into teams of 3. They will then participate in a competition where they create a Display using the props from the props unit to demonstrate the reasons why they love SA.\n</li><li>The winning team, can bring their partners on the trip at the end of the year plus they will get instant hampers. The group with the most likes/retweets etc will WIN on the day.\n</li><li>Media Packs will contain the press pack (info about South Africa day, the influencers &amp; their role), a book, earphones, desk flags etc\n</li><li>Décor: South African colours. \n</li><li>South Africa Day branding (i.e. banners etc.)</li></ol>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-z",
+          "title": "LOOK AND FEEL – DECOR",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "color": "#e39939"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/4-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/4-2000x1500.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/7-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/7-2000x1500.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/9-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/9-2000x1500.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/10-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/10-2000x1500.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/12-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/12-2000x1500.png",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1500.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/3-2000x1500.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/8-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/8-2000x1500.png",
+                "active": false
+              }
+            ],
+            "showText": false,
+            "bgColor": "#4c6972",
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-y",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-10",
+          "title": "LOOK AND FEEL – ART GALLERY",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/19-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/19-2000x1500.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/17-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/17-2000x1500.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc04014-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/dsc04014-2000x1500.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/13-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/13-2000x1500.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/18-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/18-2000x1500.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/20-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/20-2000x1500.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/14-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/14-2000x1500.png",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/21-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/21-2000x1500.png",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#4c6972",
+            "fullWidth": false,
+            "noGutter": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-11",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-12",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#f0f0f0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "firstType": "default",
+            "showButtons": false,
+            "secondType": "green",
+            "thirdType": "favorite",
+            "fourthType": "orange",
+            "fifthType": "hidden"
+          },
+          "title1": "LANGUAGE",
+          "currency1": "",
+          "price1": "",
+          "period1": "&nbsp;",
+          "list1": "<ul><li><b>ZULU</b></li><li><b><br></b></li><li><b>SESOTHO</b></li><li><b>ENGLISH</b></li><li><b>SETSWANA</b></li><li><b>AFRIKAANS</b></li><li><b>SEPEDI</b></li><li><b>XHOSA</b></li><li><b>TSONGA</b></li><li><b>VENDA</b></li><li><b>NDEBELE</b></li><li><b>SESWATI</b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
+          "title2": "SPORTS",
+          "currency2": "",
+          "price2": "&nbsp;",
+          "period2": "&nbsp;",
+          "list2": "<ul><li><b><br></b></li><li><b><br></b></li><li><b>Hashim Amla\n</b></li><li><b>Itumeleng Khune\n</b></li><li><b>Wade van Niekerk\n</b></li><li><b>Castor Semenya\n</b></li><li><b>Makhaya Ntini\n</b></li><li><b><br></b></li><li><b>Kagiso Rabada\n</b></li><li><b><br></b></li><li><b><br></b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title3": "MUSIC",
+          "currency3": "",
+          "price3": "",
+          "period3": "&nbsp;",
+          "list3": "<ul><li><b>DJ Tira, Black Coffee\n</b></li><li><b><br></b></li><li><b>Danny K, AKA\n</b></li><li><b>Cassper Nyovest\n</b></li><li><b>Karen Zoid, Kurt Darren\n</b></li><li><b>King Monada\n</b></li><li><b>Amanda Black, The Soil\n</b></li><li><b>DJ Ganyani\n</b></li><li><b><br></b></li><li><br></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title4": "TV, ART &amp; COMEDY",
+          "currency4": "",
+          "price4": "",
+          "period4": "",
+          "list4": "<ul><li><b>Pearl Thusi, Nomzamo Mbatha, Somizi Khanyi Dlomo Mkhize, Skhumba\n</b></li><li><b>Gareth Cliff, Barry Hilton, Nik Rabinowitz</b><br></li><li><b>Bonang Matheba\n</b></li><li><b>Joey Rasdien, Marc Lottering \n</b></li><li><b>Phuthi Khomo\n</b></li><li><b>Unathi, Loyiso Gola\n</b></li><li><b>Hulisani Ravele\n</b></li><li><b>Gabriel Temudzani\n</b></li><li><b>Ester Mahlangu\n</b></li><li><br></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title5": "EXTENDED",
+          "currency5": "$",
+          "price5": "0",
+          "period5": "per month",
+          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "_styles": {
+            ".mbr-plan__details UL": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "items": [
+            {
+              "text": "<p class=\"mbr-reviews__p\">Proposal Alignment\n</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "JULY",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">FULL CAMPAIGN ROLL OUT SIGN OFF\n</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "AUGUST",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">CAMPAIGN LAUNCH POST HERITAGE DAY\r</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "SEPTEMBER",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">AMBASSADORS REVEALED\n</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "OCTOBER",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">MAIN EVENT\n</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "NOVEMBER",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">POST EVENT PR\r</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "DECEMBER",
+              "authorBio": "Developer"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p class=\"mbr-reviews__p\">Proposal Alignment\n</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "JULY",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">FULL CAMPAIGN ROLL OUT SIGN OFF\n</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "AUGUST",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">CAMPAIGN LAUNCH POST HERITAGE DAY\r</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "SEPTEMBER",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">AMBASSADORS REVEALED\n</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "OCTOBER",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">MAIN EVENT\n</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "NOVEMBER",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">POST EVENT PR\r</p><p class=\"mbr-reviews__p\"><br></p>",
+              "authorName": "DECEMBER",
+              "authorBio": "Developer"
+            }
+          ],
+          "_anchor": "testimonials1-13",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/south-africa-day-blank-2000x1124.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "count": "6",
+            "showName": true,
+            "showBio": false
+          },
+          "header": "TIMING PLAN",
+          "_styles": {
+            ".mbr-section__header": {
+              "color": "#e39939",
+              "text-align": "center",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-14",
+          "_params": {
+            "outside": false,
+            "bgColor": "#252525",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/south-africa-day-blank-1400x296.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "(c)2017 managesXThabiso",
+          "_styles": {
+            "SMALL": {
+              "text-align": "center"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
