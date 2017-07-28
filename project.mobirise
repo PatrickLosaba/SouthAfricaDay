@@ -822,7 +822,8 @@
           "_styles": {
             ".mbr-section__col .mbr-header__text": {
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "left"
             }
           },
           "_anchor": "content4-k",
