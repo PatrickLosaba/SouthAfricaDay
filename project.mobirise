@@ -231,23 +231,28 @@
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "color": "#e39939"
+            },
+            "P": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "content4-8",
           "_params": {
             "paddingTop": "4",
             "paddingBottom": "4",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/south-africa-day-blank-2000x423.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/umuzepvthgE?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.2",
             "overlayColor": "#222",
             "showHeader": false,
             "showSubheader": false,
