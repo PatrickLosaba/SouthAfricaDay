@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 41,
+    "uniqCompNum": 43,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/thabiso-final-logo-9-128x128.png",
     "noImageResize": "",
@@ -37,7 +37,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/south-africa-day-title-2000x1124.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/south-africa-day-2000x1124.png",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1830,100 +1830,51 @@
           }
         },
         {
-          "items": [
-            {
-              "text": "<p class=\"mbr-reviews__p\">Proposal Alignment\n</p><p class=\"mbr-reviews__p\"><br></p>",
-              "authorName": "JULY",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p class=\"mbr-reviews__p\">FULL CAMPAIGN ROLL OUT SIGN OFF\n</p><p class=\"mbr-reviews__p\"><br></p>",
-              "authorName": "AUGUST",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p class=\"mbr-reviews__p\">CAMPAIGN LAUNCH POST HERITAGE DAY\r</p><p class=\"mbr-reviews__p\"><br></p>",
-              "authorName": "SEPTEMBER",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p class=\"mbr-reviews__p\">AMBASSADORS REVEALED\n</p><p class=\"mbr-reviews__p\"><br></p>",
-              "authorName": "OCTOBER",
-              "authorBio": "Developer"
-            },
-            {
-              "text": "<p class=\"mbr-reviews__p\">MAIN EVENT\n</p><p class=\"mbr-reviews__p\"><br></p>",
-              "authorName": "NOVEMBER",
-              "authorBio": "Developer"
-            },
-            {
-              "text": "<p class=\"mbr-reviews__p\">POST EVENT PR\r</p><p class=\"mbr-reviews__p\"><br></p>",
-              "authorName": "DECEMBER",
-              "authorBio": "Developer"
-            }
-          ],
           "_tags": [
             "Theme"
           ],
-          "_name": "testimonials1",
-          "testimonial": [
-            {
-              "text": "<p class=\"mbr-reviews__p\">Proposal Alignment\n</p><p class=\"mbr-reviews__p\"><br></p>",
-              "authorName": "JULY",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p class=\"mbr-reviews__p\">FULL CAMPAIGN ROLL OUT SIGN OFF\n</p><p class=\"mbr-reviews__p\"><br></p>",
-              "authorName": "AUGUST",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p class=\"mbr-reviews__p\">CAMPAIGN LAUNCH POST HERITAGE DAY\r</p><p class=\"mbr-reviews__p\"><br></p>",
-              "authorName": "SEPTEMBER",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p class=\"mbr-reviews__p\">AMBASSADORS REVEALED\n</p><p class=\"mbr-reviews__p\"><br></p>",
-              "authorName": "OCTOBER",
-              "authorBio": "Developer"
-            },
-            {
-              "text": "<p class=\"mbr-reviews__p\">MAIN EVENT\n</p><p class=\"mbr-reviews__p\"><br></p>",
-              "authorName": "NOVEMBER",
-              "authorBio": "Developer"
-            },
-            {
-              "text": "<p class=\"mbr-reviews__p\">POST EVENT PR\r</p><p class=\"mbr-reviews__p\"><br></p>",
-              "authorName": "DECEMBER",
-              "authorBio": "Developer"
-            }
-          ],
-          "_anchor": "testimonials1-13",
+          "_name": "header3",
+          "_anchor": "header3-15",
+          "title": "TIMING PLAN",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/south-africa-day-blank-2000x1124.png",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "count": "6",
-            "showName": true,
-            "showBio": false
+            "showMeta": false
           },
-          "header": "TIMING PLAN",
+          "meta": "By John Smith posted July 30, 2015",
           "_styles": {
-            ".mbr-section__header": {
-              "color": "#e39939",
+            "H3": {
               "text-align": "center",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "color": "#e39939"
             }
           }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-16",
+          "_params": {
+            "outside": false,
+            "bgColor": "#252525",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/south-africa-day-tl-1400x1138.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
           "_tags": [
